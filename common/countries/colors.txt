@@ -53,7 +53,7 @@ LAT = {
 	color = rgb { 75 77 186 }
 	color_ui = rgb { 124 125 184 }
 }
-SPR = {
+SPA = {
 	color = rgb { 242 205 94 }
 	color_ui = rgb { 255 255 122 }
 }
@@ -902,7 +902,7 @@ TCA = {
 	color_ui = rgb { 127 211 131 }
 }
 
-QBC = {
+QUE = {
 	color = rgb { 36 43 191 }
 	color_ui = rgb { 36 43 191 }
 }

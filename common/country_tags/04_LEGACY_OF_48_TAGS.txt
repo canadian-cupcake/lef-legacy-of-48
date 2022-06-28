@@ -19,21 +19,21 @@ MDK = "countries/Mandinkan.txt" # Mandinkan Empire
 #GHA Ghana
 ZUL = "countries/Zulu.txt" # Zululand
 #MOR Morocco
-BOR = "countries/Boer.txt" # Boer Territories
+ZAR = "countries/Boer.txt" # Boer Territories
 
 #### EUROPE ####
 
-#ENG England
-#IRE Ireland
-#SCO Scotland
-#GER German Empire/Prussia
-#FRA French Commune
+ENG = "countries/England.txt" # England
+IRE = "countries/Ireland.txt" # Ireland
+SCO = "countries/Scotland.txt" # Scotland
+GER = "countries/Germany.txt" # Germany
+FRA = "countries/France.txt" # France
 BUR = "countries/Burgundy.txt" # Burgundy
-CAS = "countries/Castile.txt"
-#SPR Spain
+CAS = "countries/Castile.txt" # Castile
+SPA = "countries/Spain.txt" # Spain
 ARA = "countries/Aragon.txt" # Aragon
 BSQ = "countries/Vasconia.txt" # Basque Country
-#POR Portugal
+POR = "countries/Portugal.txt" # Portugal
 TFR = "countries/Third French Republic.txt" # Third French Republic
 #SWI Switzerland
 #BRI Brittany
@@ -55,11 +55,12 @@ SRD = "countries/Sardinia Piedmont.txt" # Sardinia Piedmont
 #ROM Romania
 #UKR Ukraine
 #GRE Greece
-#SOV Russia
+RUS = "countries/Russia.txt"
 
 #### MIDDLE EAST ####
 
-#TUR Ottoman
+OTT = "Ottomans.txt" # Ottomans
+TUR = "Turkey.txt" # Turkey
 #PER Persia
 #YEM Yemen
 #OMA Oman
@@ -72,7 +73,7 @@ TCA = "countries/Transcaucasia.txt"
 
 #USA America
 #CAN Canada
-QBC = "countries/Quebec.txt"
+QUE = "countries/Quebec.txt"
 #MEX Mexico
 
 #### LATIN AMERICA ####
