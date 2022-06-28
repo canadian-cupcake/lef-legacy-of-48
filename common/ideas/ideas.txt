@@ -10,6 +10,7 @@ ideas = {
 				}
 			}
 			on_add = {
+				set_cosmetic_tag = [ROOT.GetTag]
 				set_cosmetic_tag = [ROOT.GetTag]_kingdom_[ROOT.GetRulingIdeology]
 			}
 		}
@@ -22,6 +23,7 @@ ideas = {
 				}
 			}
 			on_add = {
+				set_cosmetic_tag = [ROOT.GetTag]
 				set_cosmetic_tag = [ROOT.GetTag]_republic_[ROOT.GetRulingIdeology]
 			}
 		}
@@ -33,6 +35,7 @@ ideas = {
 				}
 			}
 			on_add = {
+				set_cosmetic_tag = [ROOT.GetTag]
 				set_cosmetic_tag = [ROOT.GetTag]_state_[ROOT.GetRulingIdeology]
 			}
 		}
@@ -41,7 +44,9 @@ ideas = {
 				has_government = revolutionary_socialist
 			}
 			on_add = {
+				set_cosmetic_tag = stateless
 				set_cosmetic_tag = [ROOT.GetTag]_stateless
+				add_ideas = leaderless
 				}
 			}
 		}

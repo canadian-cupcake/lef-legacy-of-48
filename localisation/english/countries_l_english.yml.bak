@@ -1,10 +1,11 @@
 l_english:
     
     # File is broken up into four sections:
-    # part 1 is country names without an assigned state type
-    # part 2 is country names with assigned state types (will do later)
+    # part 1 is country names without an assigned state type or ideology (simple names, e.g. "Germany" instead of "Federal Republic of Germany")
+    # part 2 is country names with assigned state types and ideologies (will do later)
     # part 3 is special cosmetic tags (will do later)
     # part 4 includes dynamic faction names (will do later)
+    # Please try to follow this format within this file, gedankt
     
     # -- canadiancupcake
     
@@ -51,25 +52,202 @@ l_english:
     
     # Part 1
     
+    # Europe
+    
     # Iberian peninsula
-    
-    ARA:0 "Aragon"
-    ARA_DEF:0 "Aragon"
-    ARA_ADJ:0 "Aragonese"
-    CAS:0 "Castile"
-    CAS_DEF:0 "Castile"
-    CAS_ADJ:0 "Castilian"
-    BSQ:0 "Vasconia"
-    BSQ_DEF:0 "the Basque Country"
-    BSQ_ADJ:0 "Basque"
-    POR:0 "Portugal"
-    POR_DEF:0 "Portugal"
-    POR_ADJ:0 "Portuguese"
     ADR:0 "Andorra"
-    ADR_DEF:0 "Andorra"
     ADR_ADJ:0 "Andorran"
+    ADR_DEF:0 "Andorra"
+    ARA:0 "Aragon"
+    ARA_ADJ:0 "Aragonese"
+    ARA_DEF:0 "Aragon"
+    BSQ:0 "Vasconia"
+    BSQ_ADJ:0 "Basque"
+    BSQ_DEF:0 "the Basque Country"
+    CAS:0 "Castile"
+    CAS_ADJ:0 "Castilian"
+    CAS_DEF:0 "Castile"
     CAT:0 "Catalonia"
-    CAT_DEF:0 "Catalonia"
     CAT_ADJ:0 "Catalan"
+    CAT_DEF:0 "Catalonia"
+    POR:0 "Portugal"
+    POR_ADJ:0 "Portuguese"
+    POR_DEF:0 "Portugal"
     
-    # Italian 
+    # Italian peninsula
+    ITA:0 "Sardinia-Piedmont"
+    ITA_ADJ:0 "Sardeno-piedmontese"
+    ITA_DEF:0 "Sardinia-Piedmont"
+    PAP:0 "Papal States"
+    PAP_ADJ:0 "Papal"
+    PAP_DEF:0 "the Papal States"
+    SIC:0 "Two Sicilies"
+    SIC_ADJ:0 "Sicilian"
+    SIC_DEF:0 "the Two Sicilies"
+    VEN:0 "Venice"
+    VEN_ADJ:0 "Venetian"
+    VEN_DEF:0 "Venice"
+    
+    # British Isles
+    ENG:0 "England"
+    ENG_ADJ:0 "English"
+    ENG_DEF:0 "England"
+    GBR:0 "Great Britain"
+    GBR_ADJ:0 "British"
+    GBR_DEF:0 "Great Britain"
+    IRE:0 "Ireland"
+    IRE_ADJ:0 "Irish"
+    IRE_DEF:0 "Ireland"
+    SCO:0 "Scotland"
+    SCO_ADJ:0 "Scottish"
+    SCO_DEF:0 "Scotland"
+    WLS:0 "Wales"
+    WLS_ADJ:0 "Welsh"
+    WLS_DEF:0 "Wales"
+    
+    # France and the Low Countries
+    BEL:0 "Belgium"
+    BEL_ADJ:0 "Belgian"
+    BEL_DEF:0 "Belgium"
+    BRI:0 "Britanny"
+    BRI_ADJ:0 "Breton"
+    BRI_DEF:0 "Britanny"
+    FRA:0 "France"
+    FRA_ADJ:0 "French"
+    FRA_DEF:0 "France"
+    HOL:0 "Netherlands"
+    HOL_ADJ:0 "Dutch"
+    HOL_DEF:0 "the Netherlands"
+    OCC:0 "Occitania"
+    OCC_ADJ:0 "Occitan"
+    OCC_DEF:0 "Occitania"
+    # Don't know the tags for Flanders and/or Wallonia or if we'll be adding them
+    
+    # Central Europe
+    AUS:0 "Austria"
+    AUS_ADJ:0 "Austrian"
+    AUS_DEF:0 "Austria"
+    CZE:0 "Bohemia"
+    CZE:ADJ:0 "Bohemian"
+    CZE_DEF:0 "Bohemia"
+    GER:0 "Germany"
+    GER_ADJ:0 "German"
+    GER_DEF:0 "Germany"
+    HUN:0 "Hungary"
+    HUN_ADJ:0 "Hungarian"
+    HUN_DEF:0 "Hungary"
+    SWI:0 "Switzerland"
+    SWI_ADJ:0 "Swiss"
+    SWI_DEF:0 "Switzerland"
+    
+    # Eastern Europe
+    POL:0 "Poland"
+    POL_ADJ:0 "Polish"
+    POL_DEF:0 "Poland"
+    UKR:0 "Ukraine"
+    UKR_ADJ:0 "Ukrainian"
+    UKR_DEF:0 "the Ukraine"
+    
+    # the Americas
+    CAN:0 "Canada"
+    CAN_ADJ:0 "Canadian"
+    CAN_DEF:0 "Canada"
+    USA:0 "United States"
+    USA_ADJ:0 "United States"
+    USA_DEF:0 "the United States"
+    QUE:0 "Quebec"
+    QUE_ADJ:0 "Quebecois"
+    QUE_DEF:0 "Quebec"
+    MEX:0 "Mexico"
+    MEX_ADJ:0 "Mexican"
+    MEX_DEF:0 "Mexico"
+    DOM:0 "Santo Domingo"
+    DOM_ADJ:0 "Dominican"
+    DOM_DEF:0 "Santo Domingo"
+    COL:0 "Colombia"
+    COL_ADJ:0 "Colombian"
+    COL_DEF:0 "Colombia"
+    VEN:0 "Venezuela"
+    VEN_ADJ:0 "Venezuelan"
+    VEN_DEF:0 "Venezuela"
+    
+    # Balkans & Middle East
+    OTT:0 "Ottomans"
+    OTT_ADJ:0 "Ottoman"
+    OTT_DEF:0 "the Ottomans"
+    TUR:0 "Turks"
+    TUR_ADJ:0 "Turk"
+    TUR_DEF:0 "the Turks"
+    GRE:0 "Greece"
+    GRE_ADJ:0 "Greek"
+    GRE_DEF:0 "Greece"
+    BUL:0 "Bulgaria"
+    BUL_ADJ:0 "Bulgarian"
+    BUL_DEF:0 "Bulgarian"
+    ALB:0 "Albania"
+    ALB_ADJ:0 "Albanian"
+    ALB_DEF:0 "Albania"
+    SER:0 "Serbia"
+    SER_ADJ:0 "Serbian"
+    SER_DEF:0 "Serbia"
+    CRO:0 "Croatia"
+    CRO_ADJ:0 "Croat"
+    CRO_DEF:0 "Croatia"
+    SLO:0 "Slovenia"
+    SLO_ADJ:0 "Slovene"
+    SLO_DEF:0 "Slovenia"
+    MNT:0 "Montenegro"
+    MNT_ADJ:0 "Montenegrin"
+    MNT_DEF:0 "Montenegro"
+    
+    # East Asia
+    CHI:0 "China"
+    CHI_ADJ:0 "Chinese"
+    CHI_DEF:0 "China"
+    JAP:0 "Japan"
+    JAP_ADJ:0 "Japanese"
+    JAP_DEF:0 "Japan"
+    MAN:0 "Manchuria"
+    MAN_ADJ:0 "Manchu"
+    MAN_DEF:0 "Manchuria"
+    
+    # Indian Subcontinent
+    RAJ:0 "Raj"
+    RAJ_ADJ:0 "Indian"
+    RAJ_ADJ:0 "the Raj"
+    
+    # Australasia
+    AST:0 "Australia"
+    AST_ADJ:0 "Australian"
+    AST_DEF:0 "Australia"
+    NZL:0 "New Zealand"
+    NZL_ADJ:0 "Kiwi"
+    NZL_DEF:0 "New Zealand"
+    
+    # Southeast Asia & Insulindia
+    SIA:0 "Siam"
+    SIA_ADJ:0 "Siamese"
+    SIA_DEF:0 "Siam"
+    BRM:0 "Burma"
+    BRM_ADJ:0 "Burmese"
+    BRM_DEF:0 "Burma"
+    
+    # Steppe
+    
+    # North Africa
+    
+    # West Africa
+    
+    # East & Central Africa
+    
+    # Southern Africa
+    ZAR:0 "Zuidafrika"
+    ZAR_ADJ:0 "Zuidafrikaansche"
+    ZAR_DEF:0 "Zuidafrika"
+    OFS:0 "Orange"
+    OFS_ADJ:0 "Orange"
+    OFS_DEF:0 "the Orange Free State"
+    BOT:0 "Tswana"
+    BOT_ADJ:0 "Tswana"
+    BOT_DEF:0 "the Tswana"
+    
