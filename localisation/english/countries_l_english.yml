@@ -192,7 +192,6 @@
     BOL_ADJ:0 "Bolivian"
     BOL_DEF:0 "Bolivia"
     
-    
     # Balkans & Middle East
     OTT:0 "Ottomans"
     OTT_ADJ:0 "Ottoman"
@@ -239,7 +238,10 @@
     # Indian Subcontinent
     RAJ:0 "Raj"
     RAJ_ADJ:0 "Indian"
-    RAJ_ADJ:0 "the Raj"
+    RAJ_DEF:0 "the Raj"
+    IND:0 "India"
+    IND_ADJ:0 "Indian"
+    IND_DEF:0 "India"
     BAN:0 "Bangladesh"
     BAN_ADJ:0 "Bangladeshi"
     BAN_DEF:0 "Bangladesh"
@@ -297,5 +299,8 @@
     NAT:0 "Natal"
     NAT_ADJ:0 "Natalian"
     NAT_DEF:0 "Natalia"
+    SAF:0 "South Africa"
+    SAF_ADJ:0 "South African"
+    SAF_DEF:0 "South Africa"
     
     
