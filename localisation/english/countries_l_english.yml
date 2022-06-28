@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
     
     # File is broken up into four sections:
     # part 1 is country names without an assigned state type or ideology (simple names, e.g. "Germany" instead of "Federal Republic of Germany")
@@ -139,6 +139,9 @@ l_english:
     SWI:0 "Switzerland"
     SWI_ADJ:0 "Swiss"
     SWI_DEF:0 "Switzerland"
+    BAY:0 "Bavaria"
+    BAY_ADJ:0 "Bavarian"
+    BAY_DEF:0 "Bavaria"
     
     # Eastern Europe
     POL:0 "Poland"
@@ -147,6 +150,12 @@ l_english:
     UKR:0 "Ukraine"
     UKR_ADJ:0 "Ukrainian"
     UKR_DEF:0 "the Ukraine"
+    ARM:0 "Armenia"
+    ARM_ADJ:0 "Armenian"
+    ARM_DEF:0 "Armenia"
+    BLR:0 "Belarussia"
+    BLR_ADJ:0 "Belarussian"
+    BLR_DEF:0 "Belarussia"
     
     # the Americas
     CAN:0 "Canada"
@@ -170,6 +179,16 @@ l_english:
     VEN:0 "Venezuela"
     VEN_ADJ:0 "Venezuelan"
     VEN_DEF:0 "Venezuela"
+    ARG:0 "Argentina"
+    ARG_ADJ:0 "Argentine"
+    ARG_DEF:0 "Argentina"
+    BLZ:0 "Belize"
+    BLZ_ADJ:0 "Belizean"
+    BLZ_DEF:0 "Belize"
+    BOL:0 "Bolivia"
+    BOL_ADJ:0 "Bolivian"
+    BOL_DEF:0 "Bolivia"
+    
     
     # Balkans & Middle East
     OTT:0 "Ottomans"
@@ -199,6 +218,9 @@ l_english:
     MNT:0 "Montenegro"
     MNT_ADJ:0 "Montenegrin"
     MNT_DEF:0 "Montenegro"
+    BOS:0 "Bosnia"
+    BOS_ADJ:0 "Bosnian"
+    BOS_DEF:0 "Bosnia"
     
     # East Asia
     CHI:0 "China"
@@ -215,6 +237,12 @@ l_english:
     RAJ:0 "Raj"
     RAJ_ADJ:0 "Indian"
     RAJ_ADJ:0 "the Raj"
+    BAN:0 "Bangladesh"
+    BAN_ADJ:0 "Bangladeshi"
+    BAN_DEF:0 "Bangladesh"
+    BHU:0 "Bhutan"
+    BHU_ADJ:0 "Bhutanese"
+    BHU_DEF:0 "Bhutan"
     
     # Australasia
     AST:0 "Australia"
@@ -235,6 +263,9 @@ l_english:
     # Steppe
     
     # North Africa
+    ALG:0 "Algeria"
+    ALG_ADJ:0 "Algerian"
+    ALG_DEF:0 "Algeria"
     
     # West Africa
     
@@ -254,5 +285,14 @@ l_english:
     NMB_ADJ:0 "Namib"
     NMB_DEF:0 "Namibland"
     MZB:0 "Mozambique"
+    ANG:0 "Angola"
+    ANG_ADJ:0 "Angolan"
+    ANG_DEF:0 "Angola"
+    TRV:0 "Transvaal"
+    TRV_ADJ:0 "Transvaal"
+    TRV_DEF:0 "the Transvaal"
+    NAT:0 "Natal"
+    NAT_ADJ:0 "Natalian"
+    NAT_DEF:0 "Natalia"
     
     
