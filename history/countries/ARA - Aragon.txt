@@ -1,0 +1,3 @@
+capital = 165
+set_cosmetic_tag = ARA_stateless
+set_research_slots = 3

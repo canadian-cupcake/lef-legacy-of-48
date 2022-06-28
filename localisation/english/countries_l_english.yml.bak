@@ -75,12 +75,9 @@
     POR_DEF:0 "Portugal"
     
     # Italian peninsula
-    SRD:0 "Sardinia-Piedmont"
-    SRD_ADJ:0 "Sardeno-piedmontese"
-    SRD_DEF:0 "Sardinia-Piedmont"
-    ITA:0 "Italy"
-    ITA_ADJ:0 "Italian"
-    ITA_DEF:0 "Italy"
+    ITA:0 "Sardinia-Piedmont"
+    ITA_ADJ:0 "Sardeno-piedmontese"
+    ITA_DEF:0 "Sardinia-Piedmont"
     PAP:0 "Papal States"
     PAP_ADJ:0 "Papal"
     PAP_DEF:0 "the Papal States"
