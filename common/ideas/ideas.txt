@@ -104,10 +104,9 @@ ideas = {
 				}
 			}
 		}
-		semi-presidential = { # Behaviour is basically having elections to a HoS office based on legislative makeup
+		hybrid = { # Behaviour is basically having elections to a HoS office based on legislative makeup
 			available = {
 				NOT = {
-					has_idea = kingdom_category
 					has_idea = stateless_category
 				}
 			}
