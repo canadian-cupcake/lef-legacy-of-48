@@ -6,22 +6,17 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = YEM
-		victory_points = {
-			12758 1 
-		}
+		owner = TUR
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = JAB
 		add_core_of = SAU
+		add_core_of = MEC
 		add_claim_by = TUR
-		add_core_of = YEM
 	}
 
 	provinces={
-		1033 2027 2033 2095 8092 10835 12101 13239 
+		1033 2027 2033 2095 5099 8092 10835 12101 13239 13262
 	}
-
-	local_supplies=0.0 
 }

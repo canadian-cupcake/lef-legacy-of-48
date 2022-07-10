@@ -3,10 +3,11 @@ state = {
 	name="STATE_836"
 	state_category=rural
 	provinces={
-		1955 10791 10850 12702 13249
+		1955 10791 12702
 	}
 	history={
 		owner = TUR
+		add_core_of = BSR 
 		add_core_of = JAB
 		add_core_of = SAU
 		add_claim_by = TUR
