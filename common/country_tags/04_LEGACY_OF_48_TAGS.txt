@@ -4,7 +4,53 @@ ZZZ = "countries/Unoccupied.txt"
 
 #CHI China
 #JAP Japan
+#KOR Korea
+#SIA Siam
+#VIN Vietnam
+#BRM Burma
 #TIB Tibet
+#AFG Afghanistan
+KSH = "countries/Kashmir.txt" # Kashmir
+KLT = "countries/Kalat.txt" # Khanate of Kalat
+#SRL Kingdom of Kandi
+SKM = "countries/Sikkim.txt" # Kingdom of Sikkim
+#BAN Bengal
+BIH = "countries/Bihar.txt" # Bihar
+AAO = "countries/Agra.txt" # Agra and Oudh
+DHL = "countries/Delhi.txt" # Delhi
+PUN = "countries/Punjab.txt" # Punjab
+SIN = "countries/Sindh.txt" # Sindh
+GUJ = "countries/Gujarat.txt" # Gujarat
+HYD = "countries/Hyderabad.txt" # Hyderabad
+MRS = "countries/Madras.txt" # Madras Confederation
+MYS = "countries/Mysore.txt" # Mysore
+TRA = "countries/Travancore.txt" # Travancore
+#MLD Maldives
+REV = "countries/RF.txt" # Revolutionary Front of India 
+BUI = "countries/Brunei.txt" # Sultanate of Brunei
+SAB = "countries/Sabah.txt" # Sabah
+ROY = "countries/British Remnant.txt" # Royalist Front
+PRK = "countries/Perak.txt"
+TRN = "countries/Terengganu.txt"
+SEL = "countries/Selangor.txt"
+SAR = "countries/Sarawak.txt"
+PAH = "countries/Pahang.txt"
+NAW = "countries/Narangga.txt" 
+ARR = "countries/Arrente.txt"
+EYR = "countries/Eyre.txt"
+BIR = "countries/Biri.txt"
+KUN = "countries/Kunjen.txt"
+BIN = "countries/Binbinga.txt"
+YAR = "countries/Yarrabyth.txt"
+NGA = "countries/Ngarinyin.txt"
+OLL = "countries/Ollgeroo.txt"
+MAG = "countries/Maguindanao.txt"
+LAN = "countries/Lanao.txt"
+SUL = "countries/Sulu.txt"
+PRA = "countries/Paragua.txt"
+MIN = "countries/Mindoro.txt"
+MDA = "countries/Mindanao.txt"
+ACE = "countries/Aceh.txt"
 
 #### AFRICA ####
 
@@ -48,22 +94,20 @@ TRZ = "countries/Trarza.txt" # Emirate of Trarza | Releaseable
 
 #### EUROPE ####
 
-ENG = "countries/England.txt" # England
-IRE = "countries/Ireland.txt" # Ireland
-SCO = "countries/Scotland.txt" # Scotland
-GER = "countries/Germany.txt" # Germany
-FRA = "countries/France.txt" # France
+#ENG England
+#IRE Ireland
+#SCO Scotland
+#FRA French Commune
 BUR = "countries/Burgundy.txt" # Burgundy
-CAS = "countries/Castile.txt" # Castile
-SPA = "countries/Spain.txt" # Spain
+CAS = "countries/Castile.txt"
+#SPR Spain
 ARA = "countries/Aragon.txt" # Aragon
 BSQ = "countries/Vasconia.txt" # Basque Country
-POR = "countries/Portugal.txt" # Portugal
+#POR Portugal
 TFR = "countries/Third French Republic.txt" # Third French Republic
 #SWI Switzerland
 #BRI Brittany
 #AUS Austria
-#BAY Bavaria
 #CZE Bohemia
 #HUN Hungary
 #HOL Netherlands
@@ -80,15 +124,23 @@ SRD = "countries/Sardinia Piedmont.txt" # Sardinia Piedmont
 #ROM Romania
 #UKR Ukraine
 #GRE Greece
-RUS = "countries/Russia.txt"
+#SOV Russia
+#GER North German Confederation
+#BAY Kingdom of Bavaria
+#WUR Kingdom of Wurttemberg
+#HAN Kingdom of Hannover
+BAD = "countries/Baden.txt" # Grand Duchy of Baden
+OLD = "countries/Oldenburg.txt" # Grand Duchy of Oldenburg
+PLT = "coutnries/Palatinate.txt" # The Palatinate
+RHI = "countries/Rhineland.txt" # Workers Republic of the Rhine
 
 #### MIDDLE EAST ####
 
-OTT = "Ottomans.txt" # Ottomans
-TUR = "Turkey.txt" # Turkey
+#TUR Ottoman
 #PER Persia
 #YEM Yemen
 #OMA Oman
+IMO = "countries/Imamate of Oman.txt"
 #SAU Nejd
 JAB = "countries/Jabal.txt" # Jabal Shammar
 MEC = "countries/Mecca.txt" # Sharifate of Mecca - can become Hejaz
@@ -97,12 +149,13 @@ BHR = "countries/Bahrain.txt" # Kingdom of Bahrain | Releaseable
 BSR = "countries/Basra.txt" # Basra
 #IRQ Baghdad
 MOS = "countries/Mosul.txt" # Mosul
+#PAL Palestine
 
 #### NORTH AMERICA ####
 
 #USA America
 #CAN Canada
-QUE = "countries/Quebec.txt"
+QBC = "countries/Quebec.txt"
 #MEX Mexico
 
 #### LATIN AMERICA ####

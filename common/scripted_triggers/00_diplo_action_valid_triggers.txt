@@ -1,0 +1,35 @@
+is_diplomatic_action_valid_generate_wargoal = {
+	if = {
+		limit = {
+			NOT = {
+				original_tag = ZZZ
+			}
+		}
+
+		always = no
+	}
+
+	else = {
+		always = no
+	}
+}
+
+is_diplomatic_action_valid_war = {
+	if = {
+		limit = {
+			NOT = {
+				original_tag = ZZZ
+			}
+		}
+
+		always = no
+	}
+
+	else = {
+		always = no
+	}
+}
+
+is_diplomatic_action_valid_create_faction = {
+	always = no
+}

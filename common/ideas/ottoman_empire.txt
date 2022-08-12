@@ -1,5 +1,26 @@
 ideas = {
 	country = {
+		TUR_Sultan_Mehmed_V = {
+			allowed = {
+				original_tag = TUR
+				NOT = {
+					has_country_flag = TUR_Deposed_Sultan
+				}
+			}
+
+			allowed_civil_war = {
+				always = no	
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = 0.025
+			}
+
+			picture = Idea_TUR_Sultan_Mehmed_V
+		}
+
 		TUR_overextended_empire = {
 			allowed = {
 				original_tag = TUR
@@ -12,7 +33,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = FRA_scw_intervention_republicans_focus
+			picture = Idea_TUR_Divided_Empire
 
 			modifier = {
 				stability_factor = -0.1
@@ -33,7 +54,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = POL_disjointed_industry
+			picture = Idea_TUR_Underdeveloped_Nation
 
 			modifier = {
 				PRODUCTION_SPEED_BUILDINGS_FACTOR = -0.15
@@ -55,7 +76,7 @@ ideas = {
 
 			removal_cost = -1
 			
-			picture = generic_victors_of_ww1
+			picture = Idea_TUR_Legacy_Young_Turks
 
 			modifier = {
 				stability_factor = -0.05
