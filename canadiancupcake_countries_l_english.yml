@@ -10,6 +10,15 @@
     
     # Note: Please DO NOT USE THE SOV TAG to refer to Russia. The Soviet Union and Russia are henceforth to be treated as separate tags, and the Russian tag is RUS.
     
+    # State type suffices are as follows:
+    
+    # _kingdom
+    # _republic
+    # _state
+    # _stateless
+    
+    # Individual ideology suffices are as follows:
+    
     # _ultranationalism:0 ""
     # _ultranationalism_DEF:0 ""
     # _ultranationalism_ADJ:0 ""
@@ -28,14 +37,14 @@
     # _moderate_socialist_:0 ""
     # _moderate_socialist_DEF:0 ""
     # _moderate_socialist_ADJ:0 ""
-    # _revolutionary_socialist_:0 ""
-    # _revolutionary_socialist_DEF:0 ""
-    # _revolutionary_socialist_ADJ:0 ""
+    # _socialist_:0 ""
+    # _socialist_DEF:0 ""
+    # _socialist_ADJ:0 ""
     # _anarcho-socialist_:0 ""
     # _anarcho-socialist_DEF:0 ""
     # _anarcho-socialist_ADJ:0 ""
     
-    # Ideology group appendices are as follows:
+    # Ideology group suffices are as follows:
     
     # _reactionary_group:0 ""
     # _reactionary_group_DEF:0 ""
@@ -370,6 +379,202 @@
     CAS_DEF:0 "Castile"
     
     # 1.4 Asia
+    
+    # Indian Subcontinent
+    
+    MYS:0 "Mysore"
+    MYS_ADJ:0 "Mysurean"
+    MYS_DEF:0 "Mysore"
+    MRS:0 "Madras"
+    MRS_ADJ:0 "Chennaiite"
+    MRS_DEF:0 "Madras"
+    HYD:0 "Hyderabad"
+    HYD_ADJ:0 "Hyderabadi"
+    HYD_DEF:0 "Hyderabad"
+    GUJ:0 "Gujarat"
+    GUJ_ADJ:0 "Gujarati"
+    GUJ_DEF:0 "Gujarat"
+    BEN:0 "Bengal"
+    BEN_ADJ:0 "Bengali"
+    BEN_DEF:0 "Bengal"
+    BIH:0 "Bihar"
+    BIH_ADJ:0 "Bihari"
+    DHL:0 "Delhi"
+    DHL_ADJ:0 "Delhiite"
+    DHL_DEF:0 "Delhi"
+    PUN:0 "Pubjab"
+    PUN_ADJ:0 "Punjabi"
+    PUN_DEF:0 "Punjab"
+    SIN:0 "Sindh"
+    SIN_ADJ:0 "Sindhi"
+    SIN_DEF:0 "Sindh"
+    KSH:0 "Kashmir"
+    KSH_ADJ:0 "Kashmiran"
+    KSH_DEF:0 "Kashmir"
+    NEP:0 "Nepal"
+    NEP_ADJ:0 "Nepali"
+    NEP_DEF:0 "Nepal"
+    SKM:0 "Sikkim"
+    SKM_ADJ:0 "Sikkimese"
+    SKM_DEF:0 "Sikkim"
+    
+    # Arabia, Middle & Near East
+    
+    TUR:0 "Ottoman Turkey"
+    TUR_ADJ:0 "Ottoman"
+    TUR_DEF:0 "Ottoman Turkey"
+    JAB:0 "Jabal Shammar"
+    JAB_ADJ:0 "Shammari"
+    JAB_DEF:0 "Jabal Shammar"
+    SAU:0 "Nejd"
+    SAU_ADJ:0 "Nejdi"
+    SAU_DEF:0 "Nejd"
+    OMA:0 "Oman"
+    OMA_ADJ:0 "Omani"
+    OMA_DEF:0 "Oman"
+    MEC:0 "Mecca"
+    MEC_ADJ:0 "Makki"
+    MEC_DEF:0 "Mecca"
+    YEM:0 "Yemen"
+    YEM_ADJ:0 "Yemeni"
+    YEM_DEF:0 "Yemen"
+    TCA:0 "Transcaucasia"
+    TCA_ADJ:0 "Caucasian"
+    TCA_DEF:0 "the Caucasus"
+    PER:0 "Persia"
+    PER_ADJ:0 "Persian"
+    PER_DEF:0 "Persia"
+    
+    # Insulindia, South-east Asia
+    
+    BRM:0 "Burma"
+    BRM_ADJ:0 "Burmese"
+    BRM_DEF:0 "Burma"
+    SIA:0 "Siam"
+    SIA_ADJ:0 "Siamese"
+    SIA_DEF:0 "Siam"
+    VIN:0 "Vietnam"
+    VIN_ADJ:0 "Vietnamese"
+    VIN_DEF:0 "Vietnam"
+    
+    # East Asia
+    
+    TIB:0 "Tibet"
+    TIB_ADJ:0 "Tibetan"
+    TIB_DEF:0 "Tibet"
+    CHI:0 "China"
+    CHI_ADJ:0 "Chinese"
+    CHI_DEF:0 "China"
+    KOR:0 "Korea"
+    KOR_ADJ:0 "Korean"
+    KOR_DEF:0 "Korea"
+    JAP:0 "Japan"
+    JAP_ADJ:0 "Japanese"
+    JAP_DEF:0 "Japan"
+    MIN:0 "Mindoro"
+    MIN_ADJ:0 "Mindorenian"
+    MIN_DEF:0 "Mindoro"
+    MDA:0 "Mindanao"
+    MDA_ADJ:0 "Mindanawan"
+    MDA_DEF:0 "Mindanao"
+    
+    # Steppe & Central Asia
+    
+    AFG:0 "Afghanistan"
+    AFG_ADJ:0 "Afghan"
+    AFG_DEF:0 "Afghanistan"
+    KAZ:0 "Kazakhstan"
+    KAZ_ADJ:0 "Kazakh"
+    KAZ_DEF:0 "Kazakhstan"
+    
+    # 1.5 Oceania & Pacific
+    
+    # Part II
+    
+    # For most countries, the following five bases should be covered:
+    
+    # _kingdom
+    # _state
+    # _republic
+    # _republic_socialist
+    # _stateless
+    
+    # Please only use the country's official/full name in the _DEF category. Use the more common name in the blank category, because it needs to be legible on the map
+    # Commonwealth countries and other colonies/semi-colonies will be classed under the State category from here forward
+    
+    # 2.1 America
+    
+    # 2.2 Africa
+    
+    # 2.3 Europe
+    
+    FRA_kingdom_DEF:0 "the Kingdom of France"
+    FRA_state_DEF:0 "the French State"
+    FRA_republic_DEF:0 "the French Republic"
+    FRA_republic_socialist_DEF:0 "the French People's Republic"
+    FRA_stateless_DEF:0 "the Commune of France"
+    POR_kingdom_DEF:0 "the Kingdom of Portugal"
+    POR_state_DEF:0 "the Portuguese State"
+    POR_republic_socialist_DEF:0 "the Portuguese Socialist Republic"
+    ARA_kingdom_DEF:0 "the Crown of Aragon"
+    ARA_state_DEF:0 "the Aragonese State"
+    ARA_republic_DEF:0 "the Republic of Aragon"
+    ARA_republic_socialist_DEF:0 "the Aragonese People's Republic"
+    ARA_stateless_DEF:0 "the Communes of Aragon"
+    BSQ_kingdom_DEF:0 "the Basque Kingdom"
+    BSQ_state_DEF:0 "the Basque State"
+    BSQ_republic_DEF:0 "the Basque Republic"
+    BSQ_republic_socialist_DEF:0 "the Basque Socialist Republic"
+    BSQ_stateless_DEF:0 "the Basque Commune"
+    CAS_kingdom_DEF:0 "the Crown of Castile"
+    CAS_state_DEF:0 "the Castilian State"
+    CAS_republic_DEF:0 "the Castilian Republic"
+    CAS_republic_socialist_DEF:0 "the Vermilion Republic of Castile"
+    CAS_stateless_DEF:0 "the Castilian Workers' Confederation"
+    BRI_kingdom_DEF:0 "the Duchy of Britanny"
+    BRI_state_DEF:0 "the Breton State"
+    BRI_republic_DEF:0 "the Breton Union"
+    BRI_republic_socialist_DEF:0 "the Breton Socialist Republic"
+    BRI_stateless_DEF:0 "the United Syndicates of Britanny"
+    GER_kingdom_DEF:0 "the German Empire"
+    GER_state_DEF:0 "the German Confederation"
+    GER_state_ultranationalist_DEF:0 "the German Reich"
+    GER_republic_DEF:0 "the Federal Republic of Germany"
+    GER_republic_socialist_DEF:0 "the German Socialist Republic"
+    GER_stateless_DEF:0 "the Germanic Socialist Confederation"
+    RHI_kingdom_DEF:0 "the Rhenish Commonwealth"
+    RHI_kingdom_ultranationalist_DEF:0 "the Empire of the Rhine"
+    RHI_state_DEF:0 "the Rhenish Federation"
+    RHI_state_ultranationalist_DEF:0 "the Rhenish Reich"
+    RHI_republic_DEF:0 "the Rhenish Federation"
+    RHI_republic_socialist_DEF:0 "the Red Rhenish People's Republic"
+    RHI_stateless_DEF:0 "the United Communes of the Rhine"
+    
+    
+    # 2.4 Asia
+    
+    # 2.5 Oceania & Pacific
+    
+    # Part III
+    
+    # 3.1 America
+    
+    # 3.2 Africa
+    
+    # 3.3 Europe
+    
+    # 3.4 Asia
+    
+    OTT_drip:0 "Supreme Porte"
+    OTT_drip_ADJ:0 "Ottoman"
+    OTT_drip_DEF:0 "the Supreme Porte"
+    SIA_thai:0 "Thailand"
+    SIA_thai_ADJ:0 "Thai"
+    SIA_thai_DEF:0 "Thailand"
+    
+    # 3.5 Oceania & Pacific
+    
+    # jogadores que exageraram na comemoração
     
     
     

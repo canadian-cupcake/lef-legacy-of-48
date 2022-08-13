@@ -1,4 +1,5 @@
 ﻿capital = 64
+set_cosmetic_tag = GER_state_libdem
 
 if = {
 	limit = {
