@@ -377,6 +377,12 @@
     CAS:0 "Castile"
     CAS_ADJ:0 "Castilian"
     CAS_DEF:0 "Castile"
+    CAT:0 "Catalonia"
+    CAT_ADJ:0 "Catalan"
+    CAT_DEF:0 "Catalonia"
+    VAL:0 "Valencia"
+    VAL_ADJ:0 "Valencian"
+    VAL_DEF:0 "Valencia"
     
     # 1.4 Asia
     
