@@ -1,4 +1,5 @@
 ﻿capital = 126
+set_cosmetic_tag = ENG_state
 
 if = {
 	limit = {
