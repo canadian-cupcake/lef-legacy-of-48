@@ -4,23 +4,31 @@
     socialist_group:0 "Socialist"
     anarcho_socialist:0 "Anarcho-socialism"
     anarcho_socialist_type_desc:0 "Seeing the State as either extractive, oppresive, unnecessary, or any combination of the three, Anarcho-socialism calls for the abolishment of the State apparatus itself in favour of a collection of self-governing, voluntary communes, just barely united in allegiance to a common country and/or ideology."
+    anarcho_socialist_desc = "Stateless Socialist Society"
     revolutionary_socialist:0 "Revolutionary socialism"
     revolutionary_socialist_type_desc:0 "Firebrand in cause and determined in nature, Revolutionary Socialism calls for the old order to be pulled out by the roots and for, in its place, a new State to be born in which a socialist society may thrive and where a paradise for the working class, whatever form it may take, be built."
+    revolutionary_socialist_desc = "Socialist Republic Regime"
     
     # Liberal-democratic group
     liberal-democratic_group:0 "Liberal-democratic"
     moderate_socialist:0 "Moderate socialism"
     moderate_socialist_type_desc:0 "A reformist and less radical approach to implementing Socialism, Moderate Socialism works within the liberal-democratic system to abolish capitalism through a legislative means."
+    moderate_socialist_desc = "Liberal-democratic Regime"
     social_democrat:0 "Social Democracy"
     social_democrat_type_desc:0 "Seeking to humanise Capitalism, Social Democracy is an ideology that strives to maintain a more humane, dignified and moral derivative of the free market through extensive welfare, nationalisation and regulation."
+    social_democrat_desc = "Liberal-democratic Regime"
     liberal:0 "Liberalism"
     liberal_type_desc:0 "Always in pursuit of individual and entrepeneurial liberty, Liberalism seeks to liberate the people from the abuses of the State and allow every individual to live his life to the fullest, free from government mandate."
+    liberal_desc = "Liberal-democratic Regime"
     conservative:0 "Conservatism"
     conservative_type_desc:0 "Seeing rapid societal change as likely harmful, Conservatism espouses the maintenance of traditional values and slow, measured change to prevent harming the current order of things with radical aberrations."
+    conservative_desc = "Liberal-democratic Regime"
     
     # Reactionary group
     reactionary:0 "Reactionary"
     reactionary_type_desc:0 "Searching for a return to old norms and denouncing progressive ideology, Reactionaries see progressivism and leftism in general as harmful and will try to put an end to it at all costs in pursuit of returning to the good-old-fashioned values upon which people used to rely."
+    reactionary_desc = "Reactionary Regime"
     ultranationalist:0 "Ultranationalism"
     ultranationalist_type_desc:0 "Seeking to restore glory to the nation by any means necessary, Ultranationalism calls upon every man, woman and child of the country to devote themselves to the State and blindly swear allegiance in pursuit of the greater good, claiming that society's collective consciousness, only when guided by a strong State, will find the country its place in the sun."
+    ultranationalist_desc = "Ultranationalist Reactionary Regime"
     

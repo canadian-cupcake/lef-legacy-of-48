@@ -16,6 +16,7 @@ bookmarks = {
 
 			}
 		}
+		
 		USA = {
 			history = USA_BLITZKRIEG_DESC
 			ideology = conservative 
@@ -25,6 +26,7 @@ bookmarks = {
 				
 			}
 		}
+		
 		ENG = {
 			history = ENG_BLITZKRIEG_DESC
 			ideology = conservative 
@@ -35,6 +37,7 @@ bookmarks = {
 			}
 			
 		}
+		
 		GER = {
 			history = GER_BLITZKRIEG_DESC
 			ideology = conservative 
@@ -44,27 +47,36 @@ bookmarks = {
 				
 			}
 		}
-		ITA={
-			history = "ITA_GATHERING_STORM_DESC"
-			ideology = conservative 
-			ideas = {
-			}
-			focuses = {
-			}
-		}
 
-		"---"={
-			history = "OTHER_BLITZKRIEG_DESC"
-		}
-
-		"TUR"={
-			minor = yes
+		TUR = {
 			history = "RAJ_GATHERING_STORM_DESC"
 			ideology = conservative 
 			ideas = {
 			}
 			focuses = {
 			}
+		}
+		
+		CHI = {
+			history = ""
+			ideology = reactionary
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		JAP = {
+			history = ""
+			ideology = conservative
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
 		}
 		
 		effect = {
