@@ -1,14 +1,14 @@
 bookmarks = {
 	bookmark = {
-		name = "GATHERING_STORM_NAME"
-		desc = "GATHERING_STORM_DESC"
+		name = "Legacy of '48"
+		desc = ""
 		date = 1910.1.1.12
 		picture = "GFX_select_date_1936"
 		default_country = "GER"
 		default = yes
 		
 		FRA = {
-			history = FRA_BLITZKRIEG_DESC
+			history = ""
 			ideology = conservative 
 			ideas={
 			}
@@ -18,7 +18,7 @@ bookmarks = {
 		}
 		
 		USA = {
-			history = USA_BLITZKRIEG_DESC
+			history = ""
 			ideology = conservative 
 			ideas = {
 			}
@@ -28,7 +28,7 @@ bookmarks = {
 		}
 		
 		ENG = {
-			history = ENG_BLITZKRIEG_DESC
+			history = ""
 			ideology = conservative 
 			ideas = {
 			}
@@ -39,7 +39,7 @@ bookmarks = {
 		}
 		
 		GER = {
-			history = GER_BLITZKRIEG_DESC
+			history = ""
 			ideology = conservative 
 			ideas = {
 			}
@@ -49,7 +49,7 @@ bookmarks = {
 		}
 
 		TUR = {
-			history = "RAJ_GATHERING_STORM_DESC"
+			history = ""
 			ideology = conservative 
 			ideas = {
 			}
@@ -76,7 +76,57 @@ bookmarks = {
 		}
 		
 		"---"={
-			history = "OTHER_BLITZKRIEG_DESC"
+			history = ""
+		}
+		
+		JAB = {
+			minor = yes
+			history = ""
+			ideology = reactionary
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		SAU = {
+			minor = yes
+			history = ""
+			ideology = reactionary
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		CAS = {
+			minor = yes
+			history = ""
+			ideology = reactionary
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		ARA = {
+			minor = yes
+			history = ""
+			ideology = anarcho_socialist
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		SCO = {
+			minor = yes
+			history = ""
+			ideology = social_democrat
+			ideas = {
+			}
+			focuses = {
+			}
 		}
 		
 		effect = {
