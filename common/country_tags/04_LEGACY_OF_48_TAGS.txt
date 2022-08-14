@@ -97,10 +97,10 @@ TRZ = "countries/Trarza.txt" # Emirate of Trarza | Releaseable
 #ENG England
 #IRE Ireland
 #SCO Scotland
-#FRA French Commune
+#FRA Socialist France
 BUR = "countries/Burgundy.txt" # Burgundy
 CAS = "countries/Castile.txt"
-#SPR Spain
+#SPA Spain
 ARA = "countries/Aragon.txt" # Aragon
 BSQ = "countries/Vasconia.txt" # Basque Country
 #POR Portugal
