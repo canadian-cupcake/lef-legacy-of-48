@@ -1,132 +1,34 @@
 bookmarks = {
 	bookmark = {
-		name = "Legacy of '48"
-		desc = ""
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
 		date = 1910.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "TUR"
 		default = yes
 		
-		FRA = {
-			history = ""
-			ideology = conservative 
-			ideas={
-			}
-			focuses = {
-
-			}
-		}
-		
-		USA = {
-			history = ""
-			ideology = conservative 
-			ideas = {
-			}
-			focuses = {
-				
-			}
-		}
-		
-		ENG = {
-			history = ""
-			ideology = conservative 
-			ideas = {
-			}
-			focuses = {
-				
-			}
-			
-		}
-		
-		GER = {
-			history = ""
-			ideology = conservative 
-			ideas = {
-			}
-			focuses = {
-				
-			}
-		}
-
 		TUR = {
-			history = ""
-			ideology = conservative 
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		
-		CHI = {
-			history = ""
-			ideology = reactionary
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		
-		JAP = {
-			history = ""
+			history = OTT_WILTED_TULIP_DESC
 			ideology = conservative
-			ideas = {
-			}
-			focuses = {
-			}
 		}
-		
-		"---"={
-			history = ""
+
+		GRE = {
+			history = GRE_WILTED_TULIP_DESC
+			ideology = liberal
 		}
-		
-		JAB = {
-			minor = yes
-			history = ""
-			ideology = reactionary
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		
+
 		SAU = {
-			minor = yes
-			history = ""
+			history = SAU_WILTED_TULIP_DESC
 			ideology = reactionary
-			ideas = {
-			}
-			focuses = {
-			}
 		}
-		
-		CAS = {
-			minor = yes
-			history = ""
+
+		JAB = {
+			history = JAB_WILTED_TULIP_DESC
 			ideology = reactionary
-			ideas = {
-			}
-			focuses = {
-			}
 		}
-		
-		ARA = {
-			minor = yes
-			history = ""
-			ideology = anarcho_socialist
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		
-		SCO = {
-			minor = yes
-			history = ""
-			ideology = social_democrat
-			ideas = {
-			}
-			focuses = {
-			}
+
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
 		}
 		
 		effect = {
