@@ -16,7 +16,7 @@ ideologies = {
 			FACTION_NAME_REACTIONARY_4
 		}
 		
-		color = { 102 51 0 }
+		color = { 93 53 39 }
 		
 		rules = {
 			
@@ -324,7 +324,7 @@ ideologies = {
 			FACTION_NAME_SOCIALIST_4
 		}
 		
-		color = { 51 51 51 }
+		color = { 130 35 51 }
 		
 		rules = {
 			can_create_collaboration_government = no
