@@ -54,7 +54,7 @@ if = {
 	set_popularities = {
 		conservative = 47
 		ultranationalist = 46
-		revolutionary_socialist = 7
+		socialist = 7
 	}
 }
 
@@ -86,7 +86,7 @@ if = {
 	set_popularities = {
 		conservative = 41
 		ultranationalist = 37
-		revolutionary_socialist = 7
+		socialist = 7
 		reactionary = 15
 	}
 	create_dynamic_country = {
@@ -331,7 +331,7 @@ set_stability = 0.5
 		set_popularities = {
 			conservative = 22
 			ultranationalist = 76
-			revolutionary_socialist = 2
+			socialist = 2
 		}
 	}
 

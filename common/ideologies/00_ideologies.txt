@@ -276,10 +276,10 @@ ideologies = {
 	
 	## Socialist group
 	
-	revolutionary_socialist = {
+	socialist = {
 
 		types = {
-			revolutionary_socialist_type = {}
+			socialist_type = {}
 		}
 		
 		dynamic_faction_names = {

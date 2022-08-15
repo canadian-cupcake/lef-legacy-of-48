@@ -4,7 +4,7 @@ ideas = {
 			allowed = {
 				original_tag = GRE
 				NOT = {
-					has_government = revolutionary_socialist
+					has_government = socialist
 					has_government = anarcho_socialist
 				}
 			}
@@ -81,7 +81,7 @@ ideas = {
 				NOT = {
 					has_government = ultranationalist
 					has_government = anarcho_socialist
-					has_government = revolutionary_socialist
+					has_government = socialist
 				}
 			}
 

@@ -76,7 +76,7 @@ create_country_leader = {
 set_popularities = {
 	conservative = 33
 	reactionary = 33
-	revolutionary_socialist = 34
+	socialist = 34
 }
 
 #recruit_character = TRA_pot

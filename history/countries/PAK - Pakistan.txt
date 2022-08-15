@@ -119,7 +119,7 @@ set_politics = {
 set_popularities = {
 	conservative = 17
 	ultranationalist = 2
-	revolutionary_socialist = 1
+	socialist = 1
 	reactionary = 80
 }
 
@@ -151,7 +151,7 @@ create_country_leader = {
 	
 	picture = "GFX_Portrait_RAJ_Political_Leader_Generic_2"
 	expire = "1960.1.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 	traits = {
 		
 	}

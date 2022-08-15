@@ -157,7 +157,7 @@ set_politics = {
 set_popularities = {
 	conservative = 75
 	ultranationalist = 20
-	revolutionary_socialist = 5
+	socialist = 5
 }
 
 #recruit_character = SAF_j_b_m_hertzog

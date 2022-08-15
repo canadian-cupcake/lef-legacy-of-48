@@ -103,7 +103,7 @@ set_popularities = {
 #	desc = ""
 #	picture = GFX_portrait_Blazo_Jovanovic
 #	expire = "1953.3.1"
-#	ideology = revolutionary_socialist_type 
+#	ideology = socialist_type 
 #	traits = {
 #		
 #	}

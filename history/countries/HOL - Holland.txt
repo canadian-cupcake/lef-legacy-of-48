@@ -247,7 +247,7 @@ set_politics = {
 set_popularities = {
 	conservative = 93
 	ultranationalist = 4
-	revolutionary_socialist = 3
+	socialist = 3
 }
 
 set_convoys = 150

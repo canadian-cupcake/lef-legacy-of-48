@@ -62,14 +62,14 @@ set_politics = {
 set_popularities = {
 	conservative = 93
 	ultranationalist = 3
-	revolutionary_socialist = 4
+	socialist = 4
 }
 
 create_country_leader = {
 	name = "Fuco Gómez"
 	picture = GFX_portrait_Fuco_Gomez
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 }
 
 create_country_leader = {

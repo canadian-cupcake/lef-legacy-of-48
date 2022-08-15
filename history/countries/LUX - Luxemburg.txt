@@ -95,7 +95,7 @@ set_politics = {
 set_popularities = {
 	conservative = 92
 	ultranationalist = 3
-	revolutionary_socialist = 5
+	socialist = 5
 }
 
 1939.1.1 = {

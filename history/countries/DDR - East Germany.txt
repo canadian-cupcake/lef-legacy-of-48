@@ -158,7 +158,7 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = revolutionary_socialist
+	ruling_party = socialist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -167,7 +167,7 @@ set_politics = {
 set_popularities = {
 	conservative = 30
 	ultranationalist = 10
-	revolutionary_socialist = 60
+	socialist = 60
 }
 
 add_ideas = {
@@ -199,7 +199,7 @@ create_country_leader = {
 	desc = "POLITICS_WILHELM_PIECK_DESC"	 
 	picture = GFX_portrait_Wilhelm_Pieck
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 	traits = {
 		#stalins_puppet # This will now be added in on_actions if SOV releases the country as a puppet via action or war conference
 		exiled # He left in 1933 so he should still be exiled
@@ -223,7 +223,7 @@ create_country_leader = {
 #	desc = "POLITICS_ERNST_THALMANN_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
 #	expire = "1956.1.1"
-#	ideology = revolutionary_socialist_type 
+#	ideology = socialist_type 
 #	traits = {
 #		assassination_survivor
 #		stalins_puppet

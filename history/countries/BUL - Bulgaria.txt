@@ -27,6 +27,6 @@ set_popularities = {
 	liberal = 47
 	conservative = 33
 	social_democrat = 10
-	revolutionary_socialist = 9
+	socialist = 9
 	reactionary = 1
 }

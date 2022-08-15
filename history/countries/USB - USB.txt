@@ -180,7 +180,7 @@ set_politics = {
 }
 set_popularities = {
 	reactionary = 99
-	revolutionary_socialist = 1
+	socialist = 1
 }
 
 add_ideas = {

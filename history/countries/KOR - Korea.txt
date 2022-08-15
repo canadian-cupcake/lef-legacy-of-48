@@ -19,7 +19,7 @@ set_politics = {
 set_popularities = {
 	conservative = 35
 	ultranationalist = 25
-	revolutionary_socialist = 30
+	socialist = 30
 	reactionary = 10
 }
 
@@ -50,7 +50,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Kim_Il_sung
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 	traits = {
 		#
 	}

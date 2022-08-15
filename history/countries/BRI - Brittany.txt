@@ -224,7 +224,7 @@ set_politics = {
 set_popularities = {
 	conservative = 20
 	ultranationalist = 40
-	revolutionary_socialist = 10
+	socialist = 10
 	reactionary = 30
 }
 
@@ -232,7 +232,7 @@ create_country_leader = {
 	name = "Yann-Morvan Gefflot"
 	picture = GFX_portrait_Yann_Morvan_Gefflot
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 }
 
 create_country_leader = {

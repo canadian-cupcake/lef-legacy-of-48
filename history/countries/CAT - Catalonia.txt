@@ -62,14 +62,14 @@ set_politics = {
 set_popularities = {
 	conservative = 50
 	ultranationalist = 3
-	revolutionary_socialist = 47
+	socialist = 47
 }
 
 create_country_leader = {
 	name = "Andreu Nin i Pérez"
 	picture = GFX_portrait_Andreu_Nin_i_Perez
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 }
 
 create_country_leader = {

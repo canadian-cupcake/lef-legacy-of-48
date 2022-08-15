@@ -118,7 +118,7 @@ set_politics = {
 
 set_popularities = {
 	conservative = 40
-	revolutionary_socialist = 25
+	socialist = 25
 	ultranationalist = 30
 	reactionary = 5
 }
@@ -129,7 +129,7 @@ create_country_leader = {
 	desc = "POLITICS_QAZI_MUHAMMAD_DESC"
 	picture = GFX_portrait_Qazi_Muhammad
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 	traits = {
 		#
 	}

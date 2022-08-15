@@ -71,7 +71,7 @@ set_popularities = {
 	social_democrat = 6
 	conservative = 2
 	ultranationalist = 2
-	revolutionary_socialist = 1
+	socialist = 1
 }
 
 # 94

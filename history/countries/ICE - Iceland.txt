@@ -81,7 +81,7 @@ set_politics = {
 set_popularities = {
 	conservative = 96
 	ultranationalist = 2
-	revolutionary_socialist = 2
+	socialist = 2
 }
 
 1939.1.1 = {
@@ -94,7 +94,7 @@ set_popularities = {
 	set_popularities = {
 		conservative = 84
 		ultranationalist = 2
-		revolutionary_socialist = 2
+		socialist = 2
 		reactionary = 12
 	}
 }
@@ -137,7 +137,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Einar_Olgeirsson
 	expire = "1965.1.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 	traits = {
 		#
 	}

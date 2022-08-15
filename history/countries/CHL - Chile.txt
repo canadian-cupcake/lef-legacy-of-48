@@ -149,7 +149,7 @@ set_politics = {
 }
 set_popularities = {
 	conservative = 98
-	revolutionary_socialist = 2
+	socialist = 2
 }
 
 1939.1.1 = {

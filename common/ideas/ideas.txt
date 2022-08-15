@@ -41,7 +41,7 @@ ideas = {
 		}
 		stateless_category = { # Will be handled by the events surrounding anarchism
 			available = {
-				has_government = revolutionary_socialist
+				has_government = socialist
 			}
 			on_add = {
 				set_cosmetic_tag = stateless
@@ -84,7 +84,7 @@ ideas = {
 				OR = {
 					has_government = ultranationalist
 					has_government = reactionary
-					has_government = revolutionary_socialist
+					has_government = socialist
 				}
 			}
 		}

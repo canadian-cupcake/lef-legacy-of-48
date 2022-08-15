@@ -13,8 +13,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_revolutionary_socialist_group"
-		texturefile = "gfx/interface/ideologies/revolutionary_socialist.dds"
+		name = "GFX_ideology_socialist_group"
+		texturefile = "gfx/interface/ideologies/socialist.dds"
 		legacy_lazy_load = no
 	}
 

@@ -81,7 +81,7 @@ if = {
 
 set_popularities = {
 	conservative = 60
-	revolutionary_socialist = 40
+	socialist = 40
 }
 
 create_country_leader = {
@@ -89,7 +89,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Nikolay_Aleksandrovich_Skvortsov
 	expire = "1953.3.1"
-	ideology = revolutionary_socialist_type 
+	ideology = socialist_type 
 	traits = {
 		
 	}

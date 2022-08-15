@@ -135,7 +135,7 @@ set_politics = {
 }
 set_popularities = {
 	conservative = 99
-	revolutionary_socialist = 1
+	socialist = 1
 }
 
 

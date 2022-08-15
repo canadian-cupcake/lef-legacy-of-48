@@ -66,6 +66,9 @@
     
     # North America
     
+    CAN:0 "Canada"
+    CAN_ADJ:0 "Canadian"
+    CAN_DEF:0 "Canada"
     CEN:0 "Central America"
     CEN_ADJ:0 "Central American"
     CEN_DEF:0 "Central America"
@@ -432,7 +435,7 @@
     NEP:0 "Nepal"
     NEP_ADJ:0 "Nepali"
     NEP_DEF:0 "Nepal"
-    PUN:0 "Pubjab"
+    PUN:0 "Punjab"
     PUN_ADJ:0 "Punjabi"
     PUN_DEF:0 "Punjab"
     SIN:0 "Sindh"
@@ -528,10 +531,47 @@
     
     # 2.1 America
     
+    # North America
 
+    USA_kingdom_DEF:0 "the United Kingdom of America"
+    USA_republic_DEF:0 "the United States of America"
+    USA_state_DEF:0 "the United States of America"
+    USA_stateless_DEF:0 "the American Commune"
+    MEX_kingdom_DEF:0 "the Mexican Empire"
+    MEX_republic_DEF:0 "the Mexican Republic"
+    MEX_republic_socialist_DEF:0 "the Socialist Republic of Mexico"
+    MEX_state_DEF:0 "the United Mexican States"
+    MEX_stateless_DEF:0 "the United Mexican Communes"
+    CEN_kingdom_DEF:0 "the Central American Empire"
+    CEN_republic_DEF:0 "the Central American Republic"
+    CEN_republic_socialist_DEF:0 "the People's Democratic Republic of Central America"
+    CEN_state_DEF:0 "the Central American Union State"
+    CEN_stateless_DEF:0 "the United Communes of Central America"
+    QBC_kingdom_DEF:0 "the Archduchy of Quebec"
+    QBC_republic_DEF:0 "the Quebecois Republic"
+    QBC_republic_socialist_DEF:0 "the Quebecois People's Republic"
+    QBC_state_DEF:0 "the Dominion of Quebec"
+    QBC_stateless_DEF:0 "the Commune of Quebec"
+    CAN_kingdom_DEF:0 "the Empire of Canada"
+    CAN_republic_DEF:0 "the Federal Republic of Canada"
+    CAN_republic_socialist:0 "the People's Republic of Canada"
+    CAN_state_DEF:0 "the Dominion of Canada"
+    CAN_stateless_DEF:0 "the United Communes of Canada"
+
+    # South America
 
     # 2.2 Africa
     
+    # North Africa
+
+    # West Africa
+
+    # Gulf of Guinea
+
+    # Central Africa
+
+    # Southern Africa
+
     # 2.3 Europe
     
     ARA_kingdom_DEF:0 "the Crown of Aragon"

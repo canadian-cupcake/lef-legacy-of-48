@@ -49,7 +49,7 @@ set_popularities = {
 	reactionary = 48
 	ultranationalist = 50
 	conservative = 1
-	revolutionary_socialist = 1
+	socialist = 1
 }
 
 set_stability = 0.50
