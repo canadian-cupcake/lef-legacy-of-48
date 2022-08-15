@@ -7,20 +7,20 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_anarcho_socialist_group"
-		textureFile = "gfx/interface/ideologies/anarcho-socialist.dds"
+		name = "GFX_ideology_anarcho_revolutionary_socialist_group"
+		textureFile = "gfx/interface/ideologies/anarcho-revolutionary_socialist.dds"
 		legacy_lazy_load = no	
 	}
 
 	spriteType = {
-		name = "GFX_ideology_socialist_group"
-		texturefile = "gfx/interface/ideologies/socialist.dds"
+		name = "GFX_ideology_revolutionary_socialist_group"
+		texturefile = "gfx/interface/ideologies/revolutionary_socialist.dds"
 		legacy_lazy_load = no
 	}
 
 	spriteType = {
-		name = "GFX_ideology_moderate_socialist_group"
-		texturefile = "gfx/interface/ideologies/moderate_socialist.dds"
+		name = "GFX_ideology_moderate_revolutionary_socialist_group"
+		texturefile = "gfx/interface/ideologies/moderate_revolutionary_socialist.dds"
 		legacy_lazy_load = no
 	}
 

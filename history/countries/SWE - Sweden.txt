@@ -93,7 +93,7 @@ set_popularities = {
 	liberal = 46
 	conservative = 40
 	social_democrat = 12
-	moderate_socialist = 2
+	moderate_revolutionary_socialist = 2
 }
 
 set_convoys = 25

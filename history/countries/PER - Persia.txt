@@ -42,7 +42,7 @@ set_politics = {
 }
 set_popularities = {
 	conservative = 50
-	moderate_socialist = 6
+	moderate_revolutionary_socialist = 6
 	liberal = 5
 	social_democrat = 39
 }

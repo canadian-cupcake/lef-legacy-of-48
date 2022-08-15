@@ -52,5 +52,5 @@ if = {
 
 set_popularities = {
 	conservative = 98
-	socialist = 2
+	revolutionary_socialist = 2
 }

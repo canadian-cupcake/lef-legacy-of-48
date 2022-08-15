@@ -66,7 +66,7 @@ set_politics = {
 set_popularities = {
 	conservative = 40
 	ultranationalist = 30
-	socialist = 30
+	revolutionary_socialist = 30
 }
 
 create_country_leader = {
@@ -103,7 +103,7 @@ create_country_leader = {
 	name = "Bulus Farah"
 	desc = ""
 	picture = GFX_portrait_Bulus_Farah
-	ideology = socialist_type 
+	ideology = revolutionary_socialist_type 
 	traits = {
 		#
 	}

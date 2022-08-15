@@ -301,7 +301,7 @@ set_popularities = {
 	conservative = 64
 	ultranationalist = 1
 	reactionary = 15
-	socialist = 20
+	revolutionary_socialist = 20
 }
 
 add_ideas = {

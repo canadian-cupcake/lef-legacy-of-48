@@ -67,7 +67,7 @@ set_politics = {
 }
 set_popularities = {
 	conservative = 80
-	socialist = 20
+	revolutionary_socialist = 20
 }
 
 create_country_leader = {
@@ -104,7 +104,7 @@ create_country_leader = {
 	name = "Shmuel Mikunis"
 	desc = ""
 	picture = GFX_portrait_Shmuel_Mikunis
-	ideology = socialist_type 
+	ideology = revolutionary_socialist_type 
 	traits = {
 		#
 	}

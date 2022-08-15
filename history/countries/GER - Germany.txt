@@ -355,7 +355,7 @@ set_politics = {
 set_popularities = {
 	conservative = 20
 	ultranationalist = 60
-	socialist = 20
+	revolutionary_socialist = 20
 }
 
 create_faction = Axis

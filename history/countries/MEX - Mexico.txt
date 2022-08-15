@@ -249,7 +249,7 @@ set_politics = {
 set_popularities = {
 	conservative = 18
 	ultranationalist = 20
-	socialist = 9
+	revolutionary_socialist = 9
 	reactionary = 53
 }
 

@@ -51,7 +51,7 @@ set_politics = {
 set_popularities = {
 	conservative = 38
 	ultranationalist = 6
-	socialist = 6
+	revolutionary_socialist = 6
 	reactionary = 50
 }
 
@@ -79,7 +79,7 @@ create_country_leader = {
 	name = "Charles Fujimoto"
 	desc = ""
 	picture = GFX_portrait_Charles_Fujimoto
-	ideology = socialist_type 
+	ideology = revolutionary_socialist_type 
 	traits = {
 		#
 	}

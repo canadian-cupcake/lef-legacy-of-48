@@ -6,8 +6,8 @@
 
     #### GREECE ####
 
- #GRE_socialist_party:0 "SKE"
- #GRE_socialist_party_long:0 "Sosialistikó Kómma Elládas"
+ #GRE_revolutionary_socialist_party:0 "SKE"
+ #GRE_revolutionary_socialist_party_long:0 "Sosialistikó Kómma Elládas"
  GRE_social_democrat_party:0 "NK"
  GRE_social_democrat_long:0 "Neoteristikon Komma"
  GRE_liberal_party:0 "Fileleftheron"
@@ -20,10 +20,10 @@
  GRE_ultranationalist_party_long:0 "Stratiotikós Sýndesmos"
 
     #### OTTOMANS ####
- TUR_socialist_party:0 "SSIF"
- TUR_socialist_party_long:0 "Selanik Sosyalist İşçi Federasyonu"
- TUR_moderate_socialist_party:0 "OSF"
- TUR_moderate_socialist_party_long:0 "Osmanlı Sosyalist Fırkası"
+ TUR_revolutionary_socialist_party:0 "SSIF"
+ TUR_revolutionary_socialist_party_long:0 "Selanik Sosyalist İşçi Federasyonu"
+ TUR_moderate_revolutionary_socialist_party:0 "OSF"
+ TUR_moderate_revolutionary_socialist_party_long:0 "Osmanlı Sosyalist Fırkası"
  TUR_liberal_party:0 "HIF"
  TUR_liberal_party_long:0 "Hürriyet ve İtilâf Fırkası"
  TUR_conservative_party:0 "ITF"

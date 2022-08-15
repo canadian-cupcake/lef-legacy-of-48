@@ -161,13 +161,13 @@ save_global_event_target_as = WTT_communist_china
 }
 
 set_politics = {
-	ruling_party = socialist
+	ruling_party = revolutionary_socialist
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	socialist = 100
+	revolutionary_socialist = 100
 }
 
 add_ideas = {

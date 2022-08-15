@@ -134,7 +134,7 @@ set_stability = 0.6
 #	desc = ""
 #	picture = GFX_portrait_Zivorad_Jovanovic
 #	expire = "1965.1.1"
-#	ideology = socialist_type 
+#	ideology = revolutionary_socialist_type 
 #	traits = {
 #		#
 #	}

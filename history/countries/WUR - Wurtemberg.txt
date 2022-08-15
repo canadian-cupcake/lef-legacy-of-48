@@ -145,7 +145,7 @@ set_politics = {
 set_popularities = {
 	conservative = 30
 	ultranationalist = 10
-	socialist = 60
+	revolutionary_socialist = 60
 }
 
 add_ideas = {
@@ -181,7 +181,7 @@ add_ideas = {
 #	desc = "POLITICS_ERNST_THALMANN_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
 #	expire = "1956.1.1"
-#	ideology = socialist_type 
+#	ideology = revolutionary_socialist_type 
 #	traits = {
 #		assassination_survivor
 #		stalins_puppet

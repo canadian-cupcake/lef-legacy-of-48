@@ -97,7 +97,7 @@ set_politics = {
 
 set_popularities = {
 	conservative = 40
-	socialist = 25
+	revolutionary_socialist = 25
 	reactionary = 35
 }
 
@@ -106,7 +106,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Pol_Pot
 	expire = "1953.3.1"
-	ideology = anarcho_socialist_type #insanity
+	ideology = anarcho_revolutionary_socialist_type #insanity
 	traits = {
 		
 	}

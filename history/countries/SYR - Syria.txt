@@ -66,7 +66,7 @@ set_politics = {
 set_popularities = {
 	conservative = 50
 	ultranationalist = 10
-	socialist = 10
+	revolutionary_socialist = 10
 	reactionary = 30
 }
 
@@ -104,7 +104,7 @@ create_country_leader = {
 	name = "Khalid Bakdash"
 	desc = ""
 	picture = GFX_portrait_Khalid_Bakdash
-	ideology = socialist_type 
+	ideology = revolutionary_socialist_type 
 	traits = {
 		#
 	}

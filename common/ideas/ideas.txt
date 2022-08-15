@@ -1,6 +1,6 @@
 ideas = {
 	# POLITICAL STRUCTURE
-	state_category = {	# Determines the cosmetic tag of the country and some will be allowed/disallowed based on ideology, e.g. stateless_category will only be selectable by revolutionary socialist government and change the ideology to anarcho_socialist
+	state_category = {	# Determines the cosmetic tag of the country and some will be allowed/disallowed based on ideology, e.g. stateless_category will only be selectable by revolutionary revolutionary_socialist government and change the ideology to anarcho_revolutionary_socialist
 		law = yes
 		kingdom_category = {
 			available = {
@@ -19,7 +19,7 @@ ideas = {
 				NOT = {
 					has_government = reactionary
 					has_government = conservative
-					has_government = anarcho_socialist
+					has_government = anarcho_revolutionary_socialist
 				}
 			}
 			on_add = {
@@ -41,7 +41,7 @@ ideas = {
 		}
 		stateless_category = { # Will be handled by the events surrounding anarchism
 			available = {
-				has_government = socialist
+				has_government = revolutionary_socialist
 			}
 			on_add = {
 				set_cosmetic_tag = stateless
@@ -56,7 +56,7 @@ ideas = {
 			available = {
 				NOT = {
 					has_idea = kingdom_category
-					has_government = anarcho_socialist
+					has_government = anarcho_revolutionary_socialist
 					has_idea = stateless_category
 				}
 			}
@@ -84,14 +84,14 @@ ideas = {
 				OR = {
 					has_government = ultranationalist
 					has_government = reactionary
-					has_government = socialist
+					has_government = revolutionary_socialist
 				}
 			}
 		}
 		leaderless = { # Will be handled by the events surrounding anarchism
 			available = {
 				OR {
-					has_government = anarcho_socialist
+					has_government = anarcho_revolutionary_socialist
 					has_idea = stateless_category
 				}
 			}
@@ -256,7 +256,7 @@ ideas = {
 		}
 		state-owned_unions = {
 		}
-		non-socialist_unions = {
+		non-revolutionary_socialist_unions = {
 		}
 		unions_illegal = {
 		}

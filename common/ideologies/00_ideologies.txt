@@ -240,10 +240,10 @@ ideologies = {
 		ai_democratic = yes
 	}
 	
-	moderate_socialist = {
+	moderate_revolutionary_socialist = {
 
 		types = {
-			moderate_socialist_type = {}
+			moderate_revolutionary_socialist_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -276,10 +276,10 @@ ideologies = {
 	
 	## Socialist group
 	
-	socialist = {
+	revolutionary_socialist = {
 
 		types = {
-			socialist_type = {}
+			revolutionary_socialist_type = {}
 		}
 		
 		dynamic_faction_names = {
@@ -310,10 +310,10 @@ ideologies = {
 		ai_communist = yes
 	}
 	
-	anarcho_socialist = {
+	anarcho_revolutionary_socialist = {
 
 		types = {
-			anarcho_socialist_type = {}
+			anarcho_revolutionary_socialist_type = {}
 		}
 		
 		dynamic_faction_names = {

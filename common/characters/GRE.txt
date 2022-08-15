@@ -31,8 +31,8 @@ characters = {
 			allowed = {
 				original_tag = GRE
 				NOT = {
-					has_government = socialist
-					has_government = anarcho_socialist
+					has_government = revolutionary_socialist
+					has_government = anarcho_revolutionary_socialist
 				}
 			}
 		}
@@ -46,7 +46,7 @@ characters = {
 				}
 			}
 			country_leader={
-				ideology=socialist_type
+				ideology=revolutionary_socialist_type
 				expire="1965.1.1.1"
 				id=-1
 			}

@@ -92,7 +92,7 @@ set_popularities = {
 	conservative = 65
 	reactionary = 20
 	ultranationalist = 5
-	socialist = 10
+	revolutionary_socialist = 10
 }
 
 if = {

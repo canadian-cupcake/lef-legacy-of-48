@@ -20,8 +20,8 @@ set_politics = {
 
 set_popularities = {
 	social_democrat = 37
-	moderate_socialist = 36
+	moderate_revolutionary_socialist = 36
 	liberal = 10
-	socialist = 10
+	revolutionary_socialist = 10
 	ultranationalist = 7
 }

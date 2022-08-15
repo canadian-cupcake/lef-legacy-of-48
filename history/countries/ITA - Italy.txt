@@ -324,7 +324,7 @@ set_politics = {
 set_popularities = {
 	conservative = 22
 	ultranationalist = 76
-	socialist = 2
+	revolutionary_socialist = 2
 }
 
 #recruit_character = ITA_palmiro_togliatti

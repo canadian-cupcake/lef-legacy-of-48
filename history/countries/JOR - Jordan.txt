@@ -66,7 +66,7 @@ set_politics = {
 set_popularities = {
 	conservative = 25
 	ultranationalist = 20
-	socialist = 5
+	revolutionary_socialist = 5
 	reactionary = 50
 }
 
@@ -104,7 +104,7 @@ create_country_leader = {
 	name = "Fu'ad Nassar"
 	desc = ""
 	picture = GFX_portrait_Fuad_Nassar
-	ideology = socialist_type 
+	ideology = revolutionary_socialist_type 
 	traits = {
 		#
 	}

@@ -37,7 +37,7 @@ characters = {
 	#		}
 	#	}
 	#	country_leader={
-	#		ideology=socialist_type
+	#		ideology=revolutionary_socialist_type
 	#		expire="1965.1.1.1"
 	#		id=-1
 	#	}
@@ -68,7 +68,7 @@ characters = {
 			}
 		}
 		country_leader={
-			ideology=moderate_socialist_type
+			ideology=moderate_revolutionary_socialist_type
 			traits={ financial_expert }
 			expire="1953.1.1.12"
 			id=-1

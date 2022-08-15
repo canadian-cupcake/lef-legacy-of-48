@@ -90,7 +90,7 @@ set_politics = {
 set_popularities = { #popularities based on 1933 election statistics.
 	conservative = 22
 	ultranationalist = 62
-	socialist = 6
+	revolutionary_socialist = 6
 	reactionary = 10
 }
 
@@ -121,7 +121,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Anton_Plenikowski #TODO
 	expire = "1953.3.1"
-	ideology = socialist_type 
+	ideology = revolutionary_socialist_type 
 	traits = {
 		
 	}

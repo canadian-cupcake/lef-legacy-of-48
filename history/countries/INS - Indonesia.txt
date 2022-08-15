@@ -49,7 +49,7 @@ set_convoys = 25
 set_popularities = {
 	conservative = 10
 	ultranationalist = 10
-	socialist = 30
+	revolutionary_socialist = 30
 	reactionary = 50
 }
 

@@ -62,14 +62,14 @@ set_politics = {
 set_popularities = {
 	conservative = 93
 	ultranationalist = 3
-	socialist = 4
+	revolutionary_socialist = 4
 }
 
 create_country_leader = {
 	name = "Ramón Ormazábal Tife"
 	picture = GFX_portrait_Ramon_Ormazabal_Tife
 	expire = "1965.1.1"
-	ideology = socialist_type 
+	ideology = revolutionary_socialist_type 
 }
 
 create_country_leader = {

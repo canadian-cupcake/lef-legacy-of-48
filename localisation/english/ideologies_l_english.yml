@@ -1,19 +1,19 @@
 ﻿l_english:
     
     # Socialist group
-    socialist_group:0 "Socialist"
-    anarcho_socialist:0 "Anarcho-socialism"
-    anarcho_socialist_type_desc:0 "Seeing the State as either extractive, oppresive, unnecessary, or any combination of the three, Anarcho-socialism calls for the abolishment of the State apparatus itself in favour of a collection of self-governing, voluntary communes, just barely united in allegiance to a common country and/or ideology."
-    anarcho_socialist_desc = "Stateless Socialist Society"
-    socialist:0 "Revolutionary socialism"
-    socialist_type_desc:0 "Firebrand in cause and determined in nature, Revolutionary Socialism calls for the old order to be pulled out by the roots and for, in its place, a new State to be born in which a socialist society may thrive and where a paradise for the working class, whatever form it may take, be built."
-    socialist_desc = "Socialist Republic Regime"
+    revolutionary_socialist_group:0 "Socialist"
+    anarcho_revolutionary_socialist:0 "Anarcho-socialism"
+    anarcho_revolutionary_socialist_type_desc:0 "Seeing the State as either extractive, oppresive, unnecessary, or any combination of the three, Anarcho-socialism calls for the abolishment of the State apparatus itself in favour of a collection of self-governing, voluntary communes, just barely united in allegiance to a common country and/or ideology."
+    anarcho_revolutionary_socialist_desc = "Stateless Socialist Society"
+    revolutionary_socialist:0 "Revolutionary socialism"
+    revolutionary_socialist_type_desc:0 "Firebrand in cause and determined in nature, Revolutionary Socialism calls for the old order to be pulled out by the roots and for, in its place, a new State to be born in which a revolutionary_socialist society may thrive and where a paradise for the working class, whatever form it may take, be built."
+    revolutionary_socialist_desc = "Socialist Republic Regime"
     
     # Liberal-democratic group
     liberal-democratic_group:0 "Liberal-democratic"
-    moderate_socialist:0 "Moderate socialism"
-    moderate_socialist_type_desc:0 "A reformist and less radical approach to implementing Socialism, Moderate Socialism works within the liberal-democratic system to abolish capitalism through a legislative means."
-    moderate_socialist_desc = "Liberal-democratic Regime"
+    moderate_revolutionary_socialist:0 "Moderate socialism"
+    moderate_revolutionary_socialist_type_desc:0 "A reformist and less radical approach to implementing Socialism, Moderate Socialism works within the liberal-democratic system to abolish capitalism through a legislative means."
+    moderate_revolutionary_socialist_desc = "Liberal-democratic Regime"
     social_democrat:0 "Social Democracy"
     social_democrat_type_desc:0 "Seeking to humanise Capitalism, Social Democracy is an ideology that strives to maintain a more humane, dignified and moral derivative of the free market through extensive welfare, nationalisation and regulation."
     social_democrat_desc = "Liberal-democratic Regime"

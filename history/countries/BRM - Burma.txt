@@ -75,7 +75,7 @@ set_politics = {
 set_popularities = {
 	conservative = 72
 	ultranationalist = 2
-	socialist = 14
+	revolutionary_socialist = 14
 	reactionary = 12
 }
 #create_country_leader = {

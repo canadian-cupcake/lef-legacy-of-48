@@ -4,8 +4,8 @@ ideas = {
 			allowed = {
 				original_tag = GRE
 				NOT = {
-					has_government = socialist
-					has_government = anarcho_socialist
+					has_government = revolutionary_socialist
+					has_government = anarcho_revolutionary_socialist
 				}
 			}
 
@@ -72,7 +72,7 @@ ideas = {
 				OR = {
 					has_government = liberal
 					has_government = social_democrat
-					has_government = moderate_socialist
+					has_government = moderate_revolutionary_socialist
 					has_government = conservative
 				}
 			}
@@ -80,8 +80,8 @@ ideas = {
 			allowed_civil_war = {
 				NOT = {
 					has_government = ultranationalist
-					has_government = anarcho_socialist
-					has_government = socialist
+					has_government = anarcho_revolutionary_socialist
+					has_government = revolutionary_socialist
 				}
 			}
 
