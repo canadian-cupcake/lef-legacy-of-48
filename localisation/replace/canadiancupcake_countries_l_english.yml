@@ -465,9 +465,12 @@
     TCA:0 "Transcaucasia"
     TCA_ADJ:0 "Caucasian"
     TCA_DEF:0 "the Caucasus"
-    TUR:0 "Ottoman Turkey"
-    TUR_ADJ:0 "Ottoman"
-    TUR_DEF:0 "Ottoman Turkey"
+    TUR:0 "Turkey"
+    TUR_ADJ:0 "Turk"
+    TUR_DEF:0 "Turkey"
+    OTT:0 "Ottoman Turkey"
+    OTT_ADJ:0 "Ottoman"
+    OTT_DEF:0 "Ottoman Turkey"
     YEM:0 "Yemen"
     YEM_ADJ:0 "Yemeni"
     YEM_DEF:0 "Yemen"
@@ -711,6 +714,9 @@
     GER_north:0 "North Germany"
     GER_north_ADJ:0 "North German"
     GER_north_DEF:0 "the North German Confederation"
+    GBR_britain:0 "Great Britain"
+    GBR_britain_ADJ:0 "British"
+    GBR_britain_DEF:0 "Great Britain"
 
     # 3.4 Asia
     
