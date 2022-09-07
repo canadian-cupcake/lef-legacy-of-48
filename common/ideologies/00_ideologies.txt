@@ -310,10 +310,10 @@ ideologies = {
 		ai_communist = yes
 	}
 	
-	anarcho_revolutionary_socialist = {
+	anarcho-socialist = {
 
 		types = {
-			anarcho_revolutionary_socialist_type = {}
+			anarcho-socialist_type = {}
 		}
 		
 		dynamic_faction_names = {
