@@ -36,9 +36,9 @@
     # _social_democrat_:0 ""
     # _social_democrat_DEF:0 ""
     # _social_democrat_ADJ:0 ""
-    # _moderate_revolutionary_socialist_:0 ""
-    # _moderate_revolutionary_socialist_DEF:0 ""
-    # _moderate_revolutionary_socialist_ADJ:0 ""
+    # _moderate_socialist_:0 ""
+    # _moderate_socialist_DEF:0 ""
+    # _moderate_socialist_ADJ:0 ""
     # _revolutionary_socialist_:0 ""
     # _revolutionary_socialist_DEF:0 ""
     # _revolutionary_socialist_ADJ:0 ""
@@ -407,6 +407,12 @@
     
     # 1.4 Asia
     
+    # Caucasia
+
+    ARM:0 "Armenia"
+    ARM_ADJ:0 "Armenian"
+    ARM_DEF:0 "Armenia"
+
     # Indian Subcontinent
     
     BEN:0 "Bengal"
@@ -474,6 +480,9 @@
     YEM:0 "Yemen"
     YEM_ADJ:0 "Yemeni"
     YEM_DEF:0 "Yemen"
+    IMO:0 "Imamate"
+    IMO_ADJ:0 "Imamate Omani"
+    IMO_DEF:0 "the Omani Imamate"
     
     # Insulindia, South-east Asia
     
@@ -486,6 +495,9 @@
     VIN:0 "Vietnam"
     VIN_ADJ:0 "Vietnamese"
     VIN_DEF:0 "Vietnam"
+    INS:0 "Insulindia"
+    INS_ADJ:0 "Insulindian"
+    INS_DEF:0 "Insulindia"
     
     # East Asia
     
@@ -529,9 +541,10 @@
     # _state
     # _stateless
     
-    # Please only use the country's official/full name in the _DEF category. Use the more common name in the blank category, because it needs to be legible on the map
+    # Please only use the country's official/full name in the _DEF category. Use the more common name in the blank category (part I), because it needs to be legible on the map
     # Commonwealth countries and other colonies/semi-colonies will be classed under the State category from here forward
-    
+    # Some states will have a different set of titles, and will probably share some. In that case it is not necessary to change them to exactly the case above. Just write what would be appropriate in that situation.
+
     # 2.1 America
     
     # North America
@@ -582,6 +595,7 @@
     ARA_republic_revolutionary_socialist_DEF:0 "the Aragonese People's Republic"
     ARA_state_DEF:0 "the Aragonese State"
     ARA_stateless_DEF:0 "the Communes of Aragon"
+
     AUS_kingdom_DEF:0 "the Archduchy of Austria"
     AUS_republic_DEF:0 "the Republic of Austria"
     AUS_republic_revolutionary_socialist_DEF:0 "the Socialist Republic of Austria"
@@ -661,7 +675,7 @@
     OLD_kingdom_DEF:0 "the Duchy of Oldenburg"
     OLD_republic_DEF:0 "the Oldenburger Republic"
     OLD_republic_revolutionary_socialist_DEF:0 "the Democratic People's Republic of Oldenburg"
-    OLD_state_DEF:0 "the State of Oldenburg"
+    OLD_state_DEF:0 "the Hanseatic State of Oldenburg"
     OLD_stateless_DEF:0 "the Oldenburger Commune"
     POR_kingdom_DEF:0 "the Kingdom of Portugal"
     POR_republic_revolutionary_socialist_DEF:0 "the Portuguese Socialist Republic"
@@ -678,6 +692,11 @@
     RUS_republic_revolutionary_socialist_DEF:0 "the Russian Soviet Socialist Republic"
     RUS_state_DEF:0 "the Russian Federation"
     RUS_stateless_DEF:0 "the Russian People's Confederation"
+    SAX_kingdom_DEF:0 "the Kingdom of Saxony"    
+    SAX_republic_DEF:0 "the Saxon Republic"
+    SAX_republic_socialist_DEF:0 "the Saxon Soviet Republic"
+    SAX_state_DEF:0 "the Saxon State"
+    SAX_stateless_DEF:0 "the Communes of Saxony"
     SIT_kingdom_DEF:0 "the Kingdom of the Two Sicilies"
     SIT_republic_DEF:0 "the Republic of the Two Sicilies"
     SIT_republic_revolutionary_socialist_DEF:0 "the Federal People's Republic of the Two Sicilies"
@@ -701,9 +720,17 @@
     
     # 2.4 Asia
     
+    ARM_kingdom_DEF:0 "the Kingdom of Armenia"
+    ARM_republic_DEF:0 "the Republic of Armenia"
+    ARM_republic_socialist:0 "the Armenian Soviet Republic"
+    ARM_state_DEF:0 "the Armenian State"
+    ARM_stateless_DEF:0 "the Communes of Armenia"
+
     # 2.5 Oceania & Pacific
     
     # Part III
+
+    # This part includes special/unique cosmetic tags that don't conform to the more general cases above.
     
     # 3.1 America
     
@@ -726,5 +753,8 @@
     SIA_thai:0 "Thailand"
     SIA_thai_ADJ:0 "Thai"
     SIA_thai_DEF:0 "Thailand"
+    muscat_imam:0 "Imamate"
+    muscat_imam_ADJ:0 "Imamate Omani"
+    muscta_imam_DEF:0 "the Omani Imamate"
     
     # 3.5 Oceania & Pacific

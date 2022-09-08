@@ -5,6 +5,7 @@ tags={
 name="Liberty, Egality, Fraternity: Legacy of '48"
 supported_version="1.11.*"
 replace_path="gfx/flags"
+replace_path="gfx/flags/medium"
 replace_path="gfx/flags/small"
 replace_path="history/states"
 replace_path="history/countries"

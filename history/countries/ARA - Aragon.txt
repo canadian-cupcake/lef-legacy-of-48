@@ -1,3 +1,19 @@
 capital = 165
 set_cosmetic_tag = ARA_stateless
 set_research_slots = 3
+
+set_politics = {
+	ruling_party = anarcho-socialist
+	last_election = "1900.1.1"
+	election_frequency = 5
+	elections_allowed = no
+}
+set_popularities = {
+	anarcho-socialist = 62.25
+	revolutionary_socialist = 7.25
+	moderate_socialist = 5.25
+	social_democrat = 25.5
+}
+
+set_convoys = 25
+set_stability = 0.44

@@ -54,8 +54,8 @@ LAT = {
 	color_ui = rgb { 124 125 184 }
 }
 SPA = {
-	color = rgb { 242 205 94 }
-	color_ui = rgb { 255 255 122 }
+	color = rgb { 255 210 0 }
+	color_ui = rgb { 255 210 0 }
 }
 ITA = {
 	color = rgb { 67 127 63 }
@@ -90,24 +90,24 @@ NOR = {
 	color_ui = rgb { 144 92 92 }
 }
 DEN = {
-	color = rgb { 153 116 93 }
-	color_ui = rgb { 199 151 121 }
+	color = rgb { 130 35 51 }
+	color_ui = rgb { 130 35 51 }
 }
 BUL = {
 	color = rgb { 51 155 0 }
 	color_ui = rgb { 210 147 217 }
 }
 POR = {
-	color = rgb { 39 116 70 }
-	color_ui = rgb { 51 151 91 }
+	color = rgb { 15 77 41 }
+	color_ui = rgb { 51 115 32 }
 }
 FIN = {
-	color = rgb { 205 212 228 }
-	color_ui = rgb { 255 255 255 }
+	color = rgb { 190 208 232 }
+	color_ui = rgb { 190 208 232 }
 }
 IRE = {
-	color = rgb { 80 159 90 }
-	color_ui = rgb { 104 207 117 }
+	color = rgb { 0 153 0 }
+	color_ui = rgb { 0 153 0 }
 }
 HUN = {
 	color = rgb { 249 126 98 }
@@ -130,7 +130,7 @@ BHU = {
 	color_ui = rgb { 172 122 88 }
 }
 BOL = {
-	color = hsv { 0.1 0.47 0.8 } #255 180 136
+	color = rgb { 255 180 136 } #255 180 136
 	color_ui = rgb { 255 234 177 }
 }
 BRA = {
@@ -142,7 +142,7 @@ CAN = {
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {
-	color = hsv { 0.18 0.6 0.9 } #255 244 190
+	color = rgb { 255 244 190 } #255 244 190
 	color_ui = hsv { 0.18 0.3 0.9 }
 }
 CHL = {
@@ -893,8 +893,8 @@ ARA = {
 }
 
 CAS = {
-	color = rgb { 255 256 90 }
-	color_ui = rgb { 255 256 90 }
+	color = rgb { 255 210 0 }
+	color_ui = rgb { 255 210 0 }
 }
 
 TCA = {

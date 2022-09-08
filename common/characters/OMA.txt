@@ -48,7 +48,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=anarcho_revolutionary_socialist_type
+			ideology=anarcho-socialist_type
 			expire="1950.1.1.12"
 			id=-1
 		}

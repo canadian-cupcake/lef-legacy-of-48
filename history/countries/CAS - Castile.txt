@@ -2,10 +2,22 @@ capital = 41
 set_cosmetic_tag = CAS_kingdom
 set_research_slots = 4
 
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "SPA_1936_naval_mtg"
-	else = {
-		set_naval_oob = "SPA_1936_naval_legacy"
-	}
+set_politics = {
+	ruling_party = ultranationalist
+	last_election = "1935.7.1"
+	election_frequency = 5
+	elections_allowed = no
 }
+set_popularities = {
+	ultranationalist = 73.5
+	reactionary = 8
+	conservative = 2.5
+	liberal = 2.5
+	social_democrat = 8
+	moderate_socialist = 0.5
+	revolutionary_socialist = 3.5
+	anarcho-socialist = 1.5
+}
+
+set_convoys = 93
+set_stability = 0.71
