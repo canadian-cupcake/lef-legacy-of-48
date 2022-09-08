@@ -32,7 +32,7 @@ characters = {
 				original_tag = GRE
 				NOT = {
 					has_government = revolutionary_socialist
-					has_government = anarcho_revolutionary_socialist
+					has_government = anarcho-socialist
 				}
 			}
 		}
