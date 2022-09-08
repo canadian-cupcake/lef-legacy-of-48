@@ -8,7 +8,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_ideology_anarcho-socialist_group"
-		textureFile = "gfx/interface/ideologies/anarcho-revolutionary_socialist.dds"
+		texturefile = "gfx/interface/ideologies/anarcho-socialist.dds"
 		legacy_lazy_load = no	
 	}
 
