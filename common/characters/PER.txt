@@ -68,7 +68,7 @@ characters = {
 			}
 		}
 		country_leader={
-			ideology=moderate_revolutionary_socialist_type
+			ideology=moderate_socialist_type
 			traits={ financial_expert }
 			expire="1953.1.1.12"
 			id=-1

@@ -106,7 +106,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Pol_Pot
 	expire = "1953.3.1"
-	ideology = anarcho_revolutionary_socialist_type #insanity
+	ideology = anarcho-socialist_type #insanity
 	traits = {
 		
 	}
