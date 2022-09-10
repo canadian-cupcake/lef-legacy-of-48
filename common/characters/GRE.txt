@@ -9,7 +9,7 @@ characters = {
 
 		country_leader = {
 			ideology = liberal_type
-			expire="1965.1.1"
+			expire=1965.1.1
 			id=-1
 		}
 	}
@@ -47,7 +47,7 @@ characters = {
 			}
 			country_leader={
 				ideology=revolutionary_socialist_type
-				expire="1965.1.1.1"
+				expire = 1965.1.1
 				id=-1
 			}
 		}
@@ -61,7 +61,7 @@ characters = {
 			}
 			country_leader={
 				ideology=conservative_type
-				expire="1965.1.1.1"
+				expire=1965.1.1
 				id=-1
 			}
 		}
@@ -75,7 +75,7 @@ characters = {
 		}
 		country_leader={
 			ideology=ultranationalist_type
-			expire="1965.1.1.1"
+			expire=1965.1.1
 			id=-1
 		}
 	}
@@ -433,7 +433,7 @@ characters = {
 		country_leader={
 			ideology=liberal_type
 			traits={ ethnarch }
-			expire="1965.1.1.1"
+			expire=1965.1.1
 			id=-1
 		}
 	}

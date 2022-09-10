@@ -1,0 +1,178 @@
+ideas = {
+	state_type = {
+		law = yes
+
+		kingdom_idea = {
+			available = {
+				always = no
+			}
+			
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+
+		}
+
+		republic_idea = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+
+		}
+
+		state_idea = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+
+		}
+
+		stateless_idea = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+
+		}
+	}
+
+	government_form = {
+		law = yes
+
+		absolute_monarchy = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+		}
+		
+		dictatorial = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+		}
+
+		dual_executive = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+		}
+
+		presidential = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+		}
+
+		parliamentary = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+		}
+
+		semi-presidential = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+		}
+
+		leaderless = {
+			available = {
+				always = no
+			}
+
+			allowed_to_remove = {
+				always = no
+			}
+
+			cost = 0
+			removal_cost = 0
+
+			cancel_if_invalid = no
+		}
+	}
+}

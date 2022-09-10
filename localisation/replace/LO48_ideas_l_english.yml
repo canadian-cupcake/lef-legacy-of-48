@@ -1,6 +1,9 @@
 ﻿l_english:
 
  ### Categories ###
+ 
+ ### Laws
+ legislation:0 "Legislation"
 
  ### Trade ###
  free_trade:0 "Free Trade"
@@ -30,6 +33,7 @@
  subsidized_schools:0 "Subsidized Schools"
  basic_funding_EDU:0 "Basic Funding"
  no_funding_EDU:0 "No Funding"
+ communal_EDU:0 "Communal Education"
 
  ### Press ###
  press_rights:0 "Press Rights"
@@ -46,6 +50,32 @@
  land_owners_only:0 "Land Owners Only"
  no_voting:0 "Complete Autocracy"
  
+ ### Advisors ###
+ advisors:0 "Advisory Body"
+ 
+ 
+ 
+ ### Laws & Government ###
+ head_of_state:0 "Head of State" 
+ head_of_government:0 "Head of Government"
+
+ ### Government Form ###
+ government_form:0 "Form of Government"
+ absolute_monarchy:0 "Absolute Monarchy"
+ dictatorial:0 "Authoritarian Dictatorship"
+ dual_executive:0 "Dual-Executive"
+ presidential:0 "Presidential Republic"
+ parliamentary:0 "Parliamentary Deliberation"
+ semi-presidential:0 "Semi-presidential Republic"
+ leaderless:0 "Leaderless"
+
+ ### State Category ###
+ state_type:0 "State Title & Category"
+ kingdom_idea:0 "Monarchy"
+ republic_idea:0 "Republic"
+ state_idea:0 "State"
+ stateless_idea:0 "Stateless"
+
  ### Ottoman Empire
 
  TUR_overextended_empire:0 "Overextended Empire"

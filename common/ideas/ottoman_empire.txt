@@ -3,9 +3,6 @@ ideas = {
 		TUR_Sultan_Mehmed_V = {
 			allowed = {
 				original_tag = TUR
-				NOT = {
-					has_country_flag = TUR_Deposed_Sultan
-				}
 			}
 
 			allowed_civil_war = {

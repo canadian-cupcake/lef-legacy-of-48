@@ -112,6 +112,19 @@ ideas = {
 			cancel_if_invalid = no
 		}
 
+		communal_EDU = {
+			available = {
+				always = no
+			}
 
+			cost = 0
+			removal_cost = -1
+			
+			allowed_to_remove = {
+				always = no
+			}
+
+			cancel_if_invalid = no
+		}
 	}
 }
