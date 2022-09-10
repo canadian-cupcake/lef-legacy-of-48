@@ -1,0 +1,46 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_kingdom_idea"
+		textureFile = "gfx/interface/ideas/political/kingdom_category.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_republic_idea"
+		textureFile = "gfx/interface/ideas/political/republic_category.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_state_idea"
+		textureFile = "gfx/interface/ideas/political/state_category.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_stateless_idea"
+		textureFile = "gfx/interface/ideas/political/stateless_category.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_absolute_monarchy"
+		textureFile = "gfx/interface/ideas/political/absolute_monarchy.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_dictatorial"
+		textureFile = "gfx/interface/ideas/political/dictatorial.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_dual_executive"
+		textureFile = "gfx/interface/ideas/political/dual executive.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_parliamentary"
+		texturefile = "gfx/interface/ideas/political/parliamentary.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_presidential"
+		texturefile = "gfx/interface/ideas/political/presidential.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_semi-presidential"
+		texturefile = "gfx/interface/ideas/political/semi-presidential.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_leaderless"
+		texturefile = "gfx/interface/ideas/political/leaderless.dds"
+	}
+}

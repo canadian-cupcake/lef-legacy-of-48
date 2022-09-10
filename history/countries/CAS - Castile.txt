@@ -19,5 +19,15 @@ set_popularities = {
 	anarcho-socialist = 1.5
 }
 
+add_ideas = {
+	kingdom_idea
+	dictatorial
+	subsidized_schools
+	penal_slavery
+	no_voting
+	service_by_requirement
+	censored_press
+}
+
 set_convoys = 93
 set_stability = 0.71

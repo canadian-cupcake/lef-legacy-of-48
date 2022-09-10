@@ -4,7 +4,6 @@ idea_categories = {
 	# multiple ledgers can be defined, in that case will show on all
 	# possible values : army, air, navy, military (shows on all military ledgers), civilian, all (shows up everywhere), hidden (does not show up)
 	
-	
 	hidden_ideas = {
 		hidden = yes
 	
@@ -24,20 +23,39 @@ idea_categories = {
 	}
 	
 	government = {
-		slot = mobilization_laws
-		slot = trade_laws
-		slot = voting_rights
-		slot = press_rights
-		slot = slavery
-		slot = education_funding
-		character_slot = political_advisor
-		
+		character_slot = head_of_state
+		character_slot = head_of_government
+		slot = state_type
+		slot = government_form
+
 		ledger = civilian
 		
 		cost = 150
 		removal_cost = 0
 	}
 	
+	advisors = {
+		character_slot = political_advisor
+		character_slot = political_advisor
+		character_slot = political_advisor
+		character_slot = political_advisor
+		character_slot = political_advisor
+		character_slot = political_advisor
+
+		ledger = civilian
+	}
+
+	legislation = {
+		slot = mobilization_laws
+		slot = trade_laws
+		slot = slavery
+		slot = education_funding
+		slot = press_rights
+		slot = voting_rights
+
+		ledger = civilian
+	}
+
 	research_production = {
 		slot = tank_manufacturer
 		slot = naval_manufacturer
@@ -162,7 +180,7 @@ idea_categories = {
 		ledger = hidden
 		slot = air_force_spirit
 	}
-
+	
 	air_force_command_spirit = {
 		type = air_spirit
 		
@@ -175,7 +193,6 @@ idea_categories = {
 		slot = air_force_command_spirit
 	}
 }
-
 
 slot_ledgers = {
 	army_chief = army
