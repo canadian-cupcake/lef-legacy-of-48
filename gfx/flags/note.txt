@@ -1,0 +1,6 @@
+IMPORTANT NOTE:
+
+.tga files should be Type 2, 32-bit, UNCOMPRESSED
+.tga files made by Photopea will ONLY come out as Type 10, 24-bit PackBits-COMPRESSED
+
+DO NOT USE THEM!!! USE paint.net
